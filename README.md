@@ -1,1 +1,1 @@
-# React-Blog-Website
+Blog App je aplikacija koja omogućava korisnicima da istražuju različite blogove, čitaju njihove sadržaje i interaguju sa autorima i drugim čitaocima putem komentara. Korisnici takođe mogu kreirati svoje blogove, deliti svoje misli i iskustva sa drugima.
